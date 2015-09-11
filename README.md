@@ -1,2 +1,2 @@
 # JSZx
-An unfinished JavaScript ZX Spectrum Emulator
+Just Another JavaScript ZX Spectrum Emulator
