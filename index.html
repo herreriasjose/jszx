@@ -1,0 +1,26 @@
+<!-- JSZx -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	
+<head>
+	<title>JSZx</title>
+	<script src="jspectrum.js"></script>
+	<script src="jsZ80.js"></script>
+	<script src="jsULA.js"></script>
+	<script src="jskeyboard.js"></script>
+	<script src="jsdriver.js"></script>
+</head>
+
+<body>
+	<div id="Screen"></div>
+	<div>
+	<input type='button' value="Reset" onClick='window.location.reload()'>
+	<input type='button' id='btnLoad' value='Load ""' onclick='uploadLocalFile();'>
+	<input type='file' id='fileinput'></div>
+	<script>
+		//init(["MODEL48K","1","HORIZONS.z80"]); // Arguments: [0] Model [1] Screen scale [2] File auto-loaded 
+		init(["MODEL48K","1"]);
+	</script>
+</body>
