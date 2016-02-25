@@ -1,4 +1,4 @@
-# JSZx
+# jsZX
 Just Another JavaScript ZX Spectrum Emulator
 
 --------------------------------------------
