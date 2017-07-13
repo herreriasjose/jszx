@@ -1,5 +1,8 @@
 # jsZX
-Just Another JavaScript ZX Spectrum Emulator
+
+Just Another JavaScript ZX Spectrum Emulator; but this time written from scratch. 
+
+Full of bugs but probably helpful to someone.
 
 --------------------------------------------
 
@@ -7,5 +10,3 @@ About the ROM: Amstrad have kindly given their permission for the redistribution
 
 --------------------------------------------
 
-José Herrerías
-herreriasjose@gmail.com
