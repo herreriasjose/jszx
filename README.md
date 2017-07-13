@@ -2,7 +2,7 @@
 
 Just Another JavaScript ZX Spectrum Emulator; but this time written from scratch. 
 
-Full of bugs but probably helpful to someone.
+Full of bugs but probably helpful for someone.
 
 ![alt text](https://raw.githubusercontent.com/herreriasjose/jsZX/master/jszx.png)
 
